@@ -5,7 +5,7 @@ created: '2023-12-10T12:37:22.555Z'
 modified: '2023-12-10T13:14:45.080Z'
 ---
 
-# export geek time notes
+# 导出极客时间笔记
 
 ```js
 var chapters=document.getElementsByClassName("step_step-content_Eajwz")
